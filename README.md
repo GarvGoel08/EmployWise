@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# EmployWise
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Assumptions
+- The token provided by the API is valid for 7 days.
+
+## How to run
+
+1. Clone the repository
+2. Install dependencies: `yarn install`
+3. Run the development server: `yarn start`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Available Scripts
 
