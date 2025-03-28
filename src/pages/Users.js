@@ -96,7 +96,7 @@ export default function Users() {
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-100 p-6">
-      <div className="flex sm:flex-row flex-col justify-between mb-8 mt-2">
+      <div className="flex sm:flex-row gap-2 flex-col justify-between mb-8 mt-2">
       <h1 className="text-3xl font-bold text-blue-600">Users List</h1>
       <input type="text" placeholder="Search users..." className="p-2 border rounded-lg" value={searchQuery} onChange={(e) => setSearchQuery(e.target.value)} />
       </div>
