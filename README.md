@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+1. [EmployWise](https://employ-wise-rouge.vercel.app/)
+2. [Video Demo](https://drive.google.com/file/d/19CH6HXMZRGtv3Lrg5B2d03J-Hnx6pvFQ/view?usp=sharing)
+
+
 ## Assumptions
 - The token provided by the API is valid for 7 days.
 
